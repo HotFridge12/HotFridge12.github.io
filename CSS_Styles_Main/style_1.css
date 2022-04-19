@@ -4,7 +4,6 @@ body
   width: 100%;
   background-image: url("IMG_Main/BGImg.png");
   background-size: 100%;
-  background-repeat: no-repeat;
   background-position: center;
 }
 .wrapper
