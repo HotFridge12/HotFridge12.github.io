@@ -1,0 +1,382 @@
+body
+{
+  height: 100%;
+  width: 100%;
+  background-image: url("IMG_Main/BGImg.png");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.wrapper
+{
+  margin: 0 auto;
+  width: 1200px;
+}
+
+/*PAGE 1*/
+
+#Profile
+{
+  width: 354px;
+  height: 464px;
+  margin: auto;
+  position: relative;
+  top: 175px;
+  background-image: url("IMG_Main/Group_1/Profile_BW.png");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  z-index: 1;
+}
+#Profile:hover
+{
+  background-image: url("IMG_Main/Group_1/Profile_H.png");
+}
+#D_HLine
+{
+  width: 700px;
+  height: 900px;
+  margin: auto;
+  position: relative;
+  top: -490px;
+  background-image: url("IMG_Main/Group_1/Horizontal_Line.png");
+  background-size: 100%;
+
+}
+#Star_1
+{
+  width: 242px;
+  height: 242px;
+  background-image: url("IMG_Main/Group_1/Stars/1.png");
+  background-size: 100%;
+  position: relative;
+  top: -1410px;
+  left: 770px;
+}
+#Star_2
+{
+  width: 242px;
+  height: 242px;
+  background-image: url("IMG_Main/Group_1/Stars/2.png");
+  background-size: 100%;
+  position: relative;
+  top: -850px;
+  left: -150px;
+}
+#RB_1
+{
+  width: 106px;
+  height: 21px;
+  background-image: url("IMG_Main/Group_1/Round_Bar.png");
+  background-size: 100%;
+  position: relative;
+  top: -1888px;
+  left: 820px;
+}
+#RB_2
+{
+  width: 106px;
+  height: 21px;
+  background-image: url("IMG_Main/Group_1/Round_Bar.png");
+  background-size: 100%;
+  position: relative;
+  top: -1910px;
+  left: 975px;
+}
+#RB_3
+{
+  width: 106px;
+  height: 21px;
+  background-image: url("IMG_Main/Group_1/Round_Bar.png");
+  background-size: 100%;
+  position: relative;
+  top: -1620px;
+  left: 820px;
+}
+#RB_4
+{
+  width: 106px;
+  height: 21px;
+  background-image: url("IMG_Main/Group_1/Round_Bar.png");
+  background-size: 100%;
+  position: relative;
+  top: -1640px;
+  left: 975px;
+}
+
+
+/*PAGE 2*/
+
+#Group_2
+{
+  width: 1500px;
+  height: 1047px;
+  background-image: url("IMG_Main/Group_2/BG_2.png");
+  background-size: 100%;
+  position: relative;
+  top: -1510px;
+  left: -158px;
+}
+
+
+/*PAGE 2*/
+
+#Group3
+{
+  width: 1500px;
+  height: 977px;
+  background-image: url("IMG_Main/Group_3/BG_3.png");
+  background-position: center;
+  background-size: 100%;
+  position: relative;
+  top: 280px;
+  left: 0px;
+}
+#P1
+{
+  width: 548px;
+  height: 300px;
+  background-image: url("IMG_Main/Group_3/P_1.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  position: relative;
+  top: 292px;
+  left: 139px;
+}
+#P2
+{
+  width: 548px;
+  height: 300px;
+  background-image: url("IMG_Main/Group_3/P_2.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  position: relative;
+  top: -31px;
+  left: 814px;
+}
+#P3
+{
+  width: 548px;
+  height: 300px;
+  background-image: url("IMG_Main/Group_3/P_3.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  position: relative;
+  top: 73px;
+  left: 814px;
+}
+#P4
+{
+  width: 548px;
+  height: 300px;
+  background-image: url("IMG_Main/Group_3/P_4.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  position: relative;
+  top: -251px;
+  left: 139px;
+}
+#P1:hover
+{
+  background-image: url("IMG_Main/Group_3/CP_3.png");
+}
+#P2:hover
+{
+  background-image: url("IMG_Main/Group_3/CP_2.png");
+}
+#P3:hover
+{
+  background-image: url("IMG_Main/Group_3/CP_1.png");
+}
+#P4:hover
+{
+  background-image: url("IMG_Main/Group_3/CP_4.png");
+}
+#Group4
+{
+  width: 1500px;
+  height: 1047px;
+  background-image: url("IMG_Main/Group_4/BG_4.png");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  position: relative;
+  top: -250px;
+  left: -158px;
+}
+#P5
+{
+  width: 638px;
+  height: 510px;
+  background-image: url("IMG_Main/Group_4/P_5.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  position: relative;
+  top: 195px;
+  left: 130px;
+}
+#P5:hover
+{
+  background-image: url("IMG_Main/Group_4/CP_5.png");
+}
+#Group5
+{
+  width: 1500px;
+  height: 1047px;
+  background-image: url("IMG_Main/Group_5/BG_5.png");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  position: relative;
+  top: -330px;
+  left: -158px;
+}
+#P6
+{
+  width: 492px;
+  height: 650px;
+  background-image: url("IMG_Main/Group_5/P_6.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  position: relative;
+  top: 150px;
+  left: 875px;
+}
+#P6:hover
+{
+  background-image: url("IMG_Main/Group_5/CP_6.png");
+}
+#Group6
+{
+  width: 1500px;
+  height: 1047px;
+  background-image: url("IMG_Main/Group_6/BG_6.png");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  position: relative;
+  top: -330px;
+  left: -158px;
+}
+#Group7
+{
+  width: 1500px;
+  height: 1847px;
+  background-image: url("IMG_Main/Group_7/BG_7.png");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  position: relative;
+  top: -360px;
+  left: -158px;
+}
+#P7
+{
+  width: 550px;
+  height: 650px;
+  background-image: url("IMG_Main/Group_7/P_7.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  position: relative;
+  top: 200px;
+  left: 138px;
+}
+#P7:hover
+{
+  background-image: url("IMG_Main/Group_7/CP_7.png");
+}
+#P8
+{
+  width: 550px;
+  height: 650px;
+  background-image: url("IMG_Main/Group_7/P_8.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  position: relative;
+  top: -450px;
+  left: 815px;
+}
+#P8:hover
+{
+  background-image: url("IMG_Main/Group_7/CP_8.png");
+}
+#P9
+{
+  width: 550px;
+  height: 650px;
+  background-image: url("IMG_Main/Group_7/P_9.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  position: relative;
+  top: -290px;
+  left: 138px;
+}
+#P9:hover
+{
+  background-image: url("IMG_Main/Group_7/CP_9.png");
+}
+#P10
+{
+  width: 550px;
+  height: 650px;
+  background-image: url("IMG_Main/Group_7/P_10.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  position: relative;
+  top: -950px;
+  left: 815px;
+}
+#P10:hover
+{
+  background-image: url("IMG_Main/Group_7/CP_10.png");
+}
+
+.footer{
+  margin-top: 150px;
+  width: 100%;
+  padding: 100px 100px;
+  background: #333;
+  color: #efefef;
+  display: flex;
+}
+.footer div{
+  text-align: left;
+}
+.C1
+{
+  width:500px;
+}
+.col1 {
+  display: block;
+  text-decoration: none;
+  color:#efefef;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.C2
+{
+  width:500px;
+}
+.col2 {
+  display: block;
+  text-decoration: none;
+  color:#efefef;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.C3
+{
+  width:500px;
+}
+.col3 {
+  display: block;
+  text-decoration: none;
+  color:#efefef;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
