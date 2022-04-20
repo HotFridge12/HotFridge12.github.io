@@ -335,15 +335,17 @@ body
   background-image: url("IMG_Main/Group_7/CP_10.png");
 }
 
-.footer{
+#footer{
+  font-family: 'Overpass', sans-serif;
+  font-weight: bolder;
   margin-top: 150px;
   width: 100%;
   padding: 100px 100px;
-  background: #333;
-  color: #efefef;
+  background: #4cf978;
+  color: #000;
   display: flex;
 }
-.footer div{
+#footer div{
   text-align: left;
 }
 .C1
@@ -353,7 +355,7 @@ body
 .col1 {
   display: block;
   text-decoration: none;
-  color:#efefef;
+  color:#000;
   margin-top: 15px;
   margin-bottom: 15px;
 }
@@ -364,7 +366,7 @@ body
 .col2 {
   display: block;
   text-decoration: none;
-  color:#efefef;
+  color:#000;
   margin-top: 15px;
   margin-bottom: 15px;
 }
@@ -375,7 +377,7 @@ body
 .col3 {
   display: block;
   text-decoration: none;
-  color:#efefef;
+  color:#000;
   margin-top: 15px;
   margin-bottom: 15px;
 }
